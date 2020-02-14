@@ -4,4 +4,9 @@ LALALALAALALLALALA
 public static void main(String args[])
 {	
 	Syso("Hello");
+	resolveBug();
+}
+void resolveBug()
+{
+
 }
